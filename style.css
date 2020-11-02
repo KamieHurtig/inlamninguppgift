@@ -43,15 +43,15 @@ h2{
 /* box 1 */
 
 .box1{
-    position: relative;
+    
 }
 
-h3{position: relative;
+h3{
     font-size:2vw;
     
 }
 
-.p-1{position: relative;
+.p-1{
     font-size: 1.8vw;
     width:47%;
     
@@ -59,10 +59,9 @@ h3{position: relative;
 }
 
 .phone-1{
-    position: relative;
     width: 55%;
-    left: 45%;
-    bottom: 20rem;
+    
+   
  }
 
 
